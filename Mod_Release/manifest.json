@@ -1,0 +1,5 @@
+{
+    "Id": "Catsmetics",
+    "PackPath": "Catsmetics.pck",
+    "Dependencies": ["Sulayre.Lure"]
+}
