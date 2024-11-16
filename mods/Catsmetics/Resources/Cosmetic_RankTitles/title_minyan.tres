@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource( 1 )
 name = "Minyan title"
-desc = "do your minyan-sona first!"
+desc = "A mini-yanw?? What's that?"
 title = "Minyan"
 icon = ExtResource( 2 )
 species_alt_mesh = [  ]
