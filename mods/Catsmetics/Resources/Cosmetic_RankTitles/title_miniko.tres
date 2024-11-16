@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource( 1 )
 name = "Mini title"
-desc = "a title of honor"
+desc = "It's THE discord kitten!"
 title = "Discord kitten"
 icon = ExtResource( 2 )
 species_alt_mesh = [  ]

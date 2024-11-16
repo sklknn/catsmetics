@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource( 1 )
 name = "Pancake Title"
-desc = "kinda eepy"
+desc = "Kinda eepy"
 title = "Pancake"
 icon = ExtResource( 2 )
 species_alt_mesh = [  ]
